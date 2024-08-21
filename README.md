@@ -1,6 +1,9 @@
 ## Hi there 👋
 ### My name is Saminu Isah ✅
 <img src = "MyPicture.png" />
+
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 <!--
 **Saminu3110c/Saminu3110c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
- - Follow the link for emoji
+ - Follow the links for emoji and some icons
   https://emojipedia.org/
+
+  https://github.com/tandpfun/skill-icons#readme
 -->
