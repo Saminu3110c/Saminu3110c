@@ -3,7 +3,7 @@
 <img src = "MyPicture.png" />
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,aws,react&perline=3)](https://skillicons.dev)
 <!--
 **Saminu3110c/Saminu3110c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
