@@ -50,10 +50,6 @@ src="https://img.shields.io/twitter/follow/Saminu3110c?logo=twitter&style=for-th
  <a href="https://github.com/Saminu3110c/my_basecamp_2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saminu3110c&repo=my_basecamp_2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"></div>
-
 
 <!-- ## Hi there 👋
 ### My name is Saminu Isah ✅
