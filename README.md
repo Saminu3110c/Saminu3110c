@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saminu Isah
 ===================================================================================================================================
-[![Check out Saminu3110c's profile on stardev.io](https://stardev.io/developers/Saminu3110c/badge/languages/country.svg)](https://stardev.io/developers/Saminu3110c)
+[![Check out Saminu3110c's profile on stardev.io](<a href="https://stardev.io/developers/Saminu3110c"><img alt="Check out Saminu3110c's profile on stardev.io" src="https://stardev.io/developers/Saminu3110c/badge/languages/global.svg" /></a>)
 
 Web Developer
 -------------
