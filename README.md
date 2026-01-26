@@ -8,13 +8,13 @@ Web Developer
 I am full stack web developer.
 
 * 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [saminu08148556630@gmail.com](mailto:saminu08148556630@gmail.com)
+* ✉️  You can contact me at [saminu3110c@gmail.com](mailto:saminu3110c@gmail.com)
 * 🧠  I'm learning Reacts
 * 🤝  I'm open to collaborating on Interesting Projects
 
 <a href="https://www.github.com/Saminu3110c" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Saminu3110c?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Saminu3110c" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Saminu3110c?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/github/followers/Saminu3110c?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Saminu3110" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Saminu3110?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
