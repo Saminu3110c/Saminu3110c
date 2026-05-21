@@ -2,8 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 [![Check out Saminu3110c's profile on stardev.io](https://stardev.io/developers/Saminu3110c/badge/languages/global.svg)](https://stardev.io/developers/Saminu3110c)
 
-<a href="https://stardev.io/developers/Saminu3110c"><img alt="Check out Saminu3110c&apos;s profile on stardev.io" src="https://stardev.io/developers/Saminu3110c/badge/languages/global.svg" /></a>
-
 Web Developer
 -------------
 
