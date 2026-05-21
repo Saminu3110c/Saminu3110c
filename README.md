@@ -1,6 +1,4 @@
-[![Check out Saminu3110c's profile on stardev.io](https://stardev.io/developers/Saminu3110c/badge/languages/global.svg)](https://stardev.io/developers/Saminu3110c)
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saminu Isah
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
 Software Developer
@@ -31,6 +29,8 @@ I enjoy solving real-world problems with technology and building projects that a
 * Modern Web Technologies
 
 Feel free to explore my repositories and connect with me for collaboration, learning, and innovative projects. You can contact me at [saminu3110c@gmail.com](mailto:saminu3110c@gmail.com)
+
+[![Check out Saminu3110c's profile on stardev.io](https://stardev.io/developers/Saminu3110c/badge/languages/global.svg)](https://stardev.io/developers/Saminu3110c)
 
 <a href="https://www.github.com/Saminu3110c" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Saminu3110c?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Saminu3110" target="_blank" rel="noreferrer"><img
