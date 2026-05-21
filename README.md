@@ -1,8 +1,5 @@
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
-
-Software Developer
--------------
 I’m a passionate Full-Stack and Backend Developer with hands-on experience building scalable web and mobile applications using modern technologies. I enjoy designing secure, user-friendly, and efficient software solutions while continuously learning and improving my engineering skills.
 
 My technical experience includes PHP, JavaScript/TypeScript, React, Ruby on Rails, Node.js, MySQL, GraphQL, Firebase, and AWS services. I have worked on projects involving REST APIs, authentication systems, cloud deployment, file management systems, student attendance systems with biometric integration, and database-driven applications.
@@ -28,9 +25,11 @@ I enjoy solving real-world problems with technology and building projects that a
 * Secure Authentication Systems
 * Modern Web Technologies
 
-Feel free to explore my repositories and connect with me for collaboration, learning, and innovative projects. You can contact me at [saminu3110c@gmail.com](mailto:saminu3110c@gmail.com)
+Feel free to explore my repositories and connect with me for collaboration, learning, and innovative projects.
+
 
 [![Check out Saminu3110c's profile on stardev.io](https://stardev.io/developers/Saminu3110c/badge/languages/global.svg)](https://stardev.io/developers/Saminu3110c)
+
 
 <a href="https://www.github.com/Saminu3110c" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Saminu3110c?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Saminu3110" target="_blank" rel="noreferrer"><img
