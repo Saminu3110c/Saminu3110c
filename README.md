@@ -2,7 +2,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 ===================================================================================================================================
 I’m a passionate Full-Stack and Backend Developer with hands-on experience building scalable web and mobile applications using modern technologies. I enjoy designing secure, user-friendly, and efficient software solutions while continuously learning and improving my engineering skills.
 
-My technical experience includes PHP, JavaScript/TypeScript, React, Ruby on Rails, Node.js, MySQL, GraphQL, Firebase, and AWS services. I have worked on projects involving REST APIs, authentication systems, cloud deployment, file management systems, student attendance systems with biometric integration, and database-driven applications.
+My technical experience includes PHP, Java, JavaScript/TypeScript, React, Ruby on Rails, Node.js, MySQL, GraphQL, Firebase, and AWS services. I have worked on projects involving REST APIs, authentication systems, cloud deployment, file management systems, student attendance systems with biometric integration, and database-driven applications.
 
 I have completed advanced software engineering and backend development training through Qwasar Silicon Valley, where I gained strong foundations in software architecture, backend engineering, and full-stack development.
 
